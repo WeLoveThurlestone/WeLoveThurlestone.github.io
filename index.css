@@ -1,6 +1,6 @@
 body{
 
-    background-color: #2F353F ;
+    background-color: #f1f1f1 ;
     max-width: 1350px;
     margin: 0 auto;
 }
@@ -8,14 +8,14 @@ body{
 h1{
     font size: 60px;
     text-align: center;
-    color: #EEC331;
+    color: #006994;
     font-family: 'Source Sans Pro', sans-serif;
 }
 
 h2{
     font size: 45px;
     text-align: center;
-    color: white;
+    color: #6b94b2;
     font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -23,7 +23,7 @@ h2{
 h3{
     font size: 30px;
     text-align: center;
-    color: #bb86fc;
+    color: #aec1d1;
     font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -31,7 +31,7 @@ p{
     font size: 30px;
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
-    color: white;
+    color: #808080;
 }
 
 
